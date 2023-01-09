@@ -7,7 +7,7 @@ iphone.ReceberLigacao();
 iphone.InstalarAplicativo("GitHub");
 
 
-Console.WriteLine("====");
+Console.WriteLine("=============");
 
 Console.WriteLine("Usando Smartphone Nokia");
 Nokia nokia = new Nokia("3", "teste2","1515" , 120);

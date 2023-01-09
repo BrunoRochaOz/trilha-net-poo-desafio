@@ -11,7 +11,7 @@ namespace DesafioPOO.Models
         {
             Numero = numero;
             Modelo = modelo;
-            Imei = imei;      //---------------------OK--------------------//
+            Imei = imei;      
             Memoria = memoria;
             
         }      
